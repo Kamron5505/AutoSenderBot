@@ -1,0 +1,377 @@
+2026-06-17 22:27:31,847 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2026-06-17 22:27:34,735 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2026-06-17 22:27:44,752 [INFO] ✅ Авторизация успешна! Аккаунт: StarPayUz — Admin
+2026-06-17 22:27:44,754 [INFO] 📁 Файл сессии сохранён: railway_session.session
+2026-06-17 22:27:44,754 [INFO] 🚀 Теперь запускай: python main.py
+2026-06-17 22:27:44,754 [INFO] Disconnecting from 149.154.167.51:443/TcpFull...
+2026-06-17 22:27:44,756 [INFO] Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-06-17 22:27:52,478 [INFO] ⭐️ StarPayUz Auto-Sender запущен!
+2026-06-17 22:27:52,483 [INFO] 📋 Чатов в списке: 47
+2026-06-17 22:27:52,491 [INFO] ⏱ Интервал между циклами: 5 мин.
+2026-06-17 22:27:52,491 [INFO] ⏳ Задержка между сообщениями: 5-15 сек.
+2026-06-17 22:27:52,492 [INFO] ==================================================
+2026-06-17 22:27:52,495 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2026-06-17 22:27:52,635 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2026-06-17 22:27:53,660 [INFO] ✅ Подключено: StarPayUz — Admin (@StarPayUzAdmin)
+2026-06-17 22:27:53,662 [INFO] ========================================
+2026-06-17 22:27:53,662 [INFO] 🚀 НАЧАЛО РАССЫЛКИ
+2026-06-17 22:27:53,662 [INFO] ========================================
+2026-06-17 22:27:54,091 [INFO] [1/47] ✅ @forum_nft_uzbekistan
+2026-06-17 22:27:54,094 [INFO] ⏳ Пауза 14 сек...
+2026-06-17 22:28:01,134 [INFO] Got difference for account updates
+2026-06-17 22:28:08,465 [INFO] [2/47] ✅ @gift_kurs
+2026-06-17 22:28:08,465 [INFO] ⏳ Пауза 14 сек...
+2026-06-17 22:28:15,596 [INFO] Got difference for channel 1631709714 updates
+2026-06-17 22:28:18,752 [INFO] Got difference for channel 1631709714 updates
+2026-06-17 22:28:22,956 [INFO] Got difference for channel 3046113003 updates
+2026-06-17 22:28:22,963 [INFO] [3/47] ✅ @oldgroupmarketss
+2026-06-17 22:28:22,963 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:28:28,692 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:28:31,354 [INFO] [4/47] ✅ @forumjon
+2026-06-17 22:28:31,354 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:28:31,377 [INFO] Got difference for channel 1214350563 updates
+2026-06-17 22:28:33,558 [INFO] Got difference for channel 1631709714 updates
+2026-06-17 22:28:39,651 [INFO] [5/47] ✅ @forumu_savdo
+2026-06-17 22:28:39,652 [INFO] ⏳ Пауза 7 сек...
+2026-06-17 22:28:47,126 [INFO] [6/47] ✅ @forum_ok
+2026-06-17 22:28:47,128 [INFO] ⏳ Пауза 15 сек...
+2026-06-17 22:28:53,282 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:28:58,582 [INFO] Got difference for channel 2457947285 updates
+2026-06-17 22:29:02,481 [INFO] Got difference for channel 3686520053 updates
+2026-06-17 22:29:02,581 [INFO] [7/47] ✅ @vz_reak_rek_tekin
+2026-06-17 22:29:02,581 [INFO] ⏳ Пауза 10 сек...
+2026-06-17 22:29:10,990 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:29:13,060 [INFO] [8/47] ✅ @foydalichatku
+2026-06-17 22:29:13,060 [INFO] ⏳ Пауза 12 сек...
+2026-06-17 22:29:18,247 [INFO] Got difference for channel 3949836005 updates
+2026-06-17 22:29:25,621 [INFO] [9/47] ✅ @ok_savdo
+2026-06-17 22:29:25,621 [INFO] ⏳ Пауза 15 сек...
+2026-06-17 22:29:25,832 [INFO] Got difference for channel 3844602083 updates
+2026-06-17 22:29:26,564 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:29:28,388 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:29:32,280 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:29:40,962 [ERROR] [10/47] ❌ @uzforum_guruh — You join the discussion group before commenting, see [here](/api/discussion#requiring-users-to-join-the-group) for more info (caused by SendMessageRequest)
+2026-06-17 22:29:40,964 [INFO] ⏳ Пауза 10 сек...
+2026-06-17 22:29:44,156 [INFO] Got difference for channel 3844602083 updates
+2026-06-17 22:29:46,517 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:29:50,913 [INFO] Got difference for channel 3781875073 updates
+2026-06-17 22:29:51,102 [ERROR] [11/47] ❌ @nft_forumi — No user has "nft_forumi" as username
+2026-06-17 22:29:51,102 [INFO] ⏳ Пауза 12 сек...
+2026-06-17 22:29:52,564 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:29:52,798 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:29:53,002 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:29:55,646 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:29:56,287 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:29:58,423 [INFO] Got difference for channel 1214350563 updates
+2026-06-17 22:29:59,434 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:30:03,574 [INFO] [12/47] ✅ @garantliy
+2026-06-17 22:30:03,574 [INFO] ⏳ Пауза 6 сек...
+2026-06-17 22:30:04,248 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:30:10,069 [INFO] [13/47] ✅ @global_forums
+2026-06-17 22:30:10,069 [INFO] ⏳ Пауза 5 сек...
+2026-06-17 22:30:10,796 [INFO] Got difference for channel 2458058163 updates
+2026-06-17 22:30:11,981 [INFO] Got difference for channel 3836583828 updates
+2026-06-17 22:30:15,569 [INFO] [14/47] ✅ @uzforum_garandi
+2026-06-17 22:30:15,569 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:30:16,223 [INFO] Got difference for channel 2534100191 updates
+2026-06-17 22:30:20,303 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:30:23,978 [INFO] [15/47] ✅ @kafolatforum
+2026-06-17 22:30:23,978 [INFO] ⏳ Пауза 9 сек...
+2026-06-17 22:30:33,417 [INFO] [16/47] ✅ @guruh_rek_vz
+2026-06-17 22:30:33,417 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:30:34,144 [INFO] Got difference for channel 1819035559 updates
+2026-06-17 22:30:42,028 [INFO] [17/47] ✅ @nodir_forum
+2026-06-17 22:30:42,028 [INFO] ⏳ Пауза 13 сек...
+2026-06-17 22:30:42,853 [INFO] Got difference for channel 3159397313 updates
+2026-06-17 22:30:45,731 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:30:49,097 [INFO] Got difference for channel 3835191942 updates
+2026-06-17 22:30:55,448 [INFO] [18/47] ✅ @gift_nft_sovdo
+2026-06-17 22:30:55,449 [INFO] ⏳ Пауза 13 сек...
+2026-06-17 22:30:56,149 [INFO] Got difference for channel 3546794025 updates
+2026-06-17 22:30:56,526 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:31:08,903 [INFO] [19/47] ✅ @akiystrade
+2026-06-17 22:31:08,903 [INFO] ⏳ Пауза 5 сек...
+2026-06-17 22:31:09,564 [INFO] Got difference for channel 2595709573 updates
+2026-06-17 22:31:13,218 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:31:13,869 [INFO] Got difference for channel 3929084183 updates
+2026-06-17 22:31:14,685 [INFO] [20/47] ✅ @Savdochilar_Guruhi
+2026-06-17 22:31:14,685 [INFO] ⏳ Пауза 12 сек...
+2026-06-17 22:31:15,345 [INFO] Got difference for channel 2667299841 updates
+2026-06-17 22:31:20,734 [INFO] Got difference for account updates
+2026-06-17 22:31:27,066 [INFO] [21/47] ✅ @omad_forum
+2026-06-17 22:31:27,071 [INFO] ⏳ Пауза 15 сек...
+2026-06-17 22:31:27,816 [INFO] Got difference for channel 3991816685 updates
+2026-06-17 22:31:36,523 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:31:42,313 [ERROR] [22/47] 🚫 Нет доступа: @NFT_OTC_SKUP — You can't write in this chat (caused by SendMessageRequest)
+2026-06-17 22:31:42,313 [INFO] ⏳ Пауза 12 сек...
+2026-06-17 22:31:50,237 [INFO] Got difference for channel 3768693589 updates
+2026-06-17 22:31:51,645 [INFO] Got difference for channel 3836583828 updates
+2026-06-17 22:31:51,826 [INFO] Got difference for channel 3985834896 updates
+2026-06-17 22:31:54,644 [INFO] [23/47] ✅ @Reak_Vz_Rek1
+2026-06-17 22:31:54,644 [INFO] ⏳ Пауза 14 сек...
+2026-06-17 22:32:08,999 [INFO] [24/47] ✅ @BIGFORUMS
+2026-06-17 22:32:08,999 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:32:09,713 [INFO] Got difference for channel 3819441290 updates
+2026-06-17 22:32:17,365 [INFO] [25/47] ✅ @Tonnel_uz
+2026-06-17 22:32:17,365 [INFO] ⏳ Пауза 13 сек...
+2026-06-17 22:32:18,037 [INFO] Got difference for channel 2352771422 updates
+2026-06-17 22:32:18,390 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:32:19,343 [INFO] Got difference for account updates
+2026-06-17 22:32:20,275 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:32:20,572 [INFO] Got difference for channel 3265732001 updates
+2026-06-17 22:32:20,751 [INFO] Got difference for channel 1294387451 updates
+2026-06-17 22:32:20,898 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:32:30,684 [ERROR] [26/47] 🚫 Нет доступа: @uzgnet — You can't write in this chat (caused by SendMessageRequest)
+2026-06-17 22:32:30,686 [INFO] ⏳ Пауза 6 сек...
+2026-06-17 22:32:36,908 [ERROR] [27/47] ❌ @brawl_stars_chat_guruh_uz — No user has "brawl_stars_chat_guruh_uz" as username
+2026-06-17 22:32:36,909 [INFO] ⏳ Пауза 12 сек...
+2026-06-17 22:32:37,389 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:32:49,422 [INFO] [28/47] ✅ @savdogarantbro
+2026-06-17 22:32:49,423 [INFO] ⏳ Пауза 10 сек...
+2026-06-17 22:32:59,862 [INFO] [29/47] ✅ @uz_garand_uz
+2026-06-17 22:32:59,862 [INFO] ⏳ Пауза 6 сек...
+2026-06-17 22:33:06,246 [INFO] [30/47] ✅ @uzforumsavdolari
+2026-06-17 22:33:06,247 [INFO] ⏳ Пауза 7 сек...
+2026-06-17 22:33:13,665 [INFO] [31/47] ✅ @UzbekFor
+2026-06-17 22:33:13,665 [INFO] ⏳ Пауза 14 сек...
+2026-06-17 22:33:27,804 [ERROR] [32/47] ❌ @tegin_rekk — No user has "tegin_rekk" as username
+2026-06-17 22:33:27,804 [INFO] ⏳ Пауза 15 сек...
+2026-06-17 22:33:34,148 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:33:43,178 [INFO] [33/47] ✅ @kibrsale
+2026-06-17 22:33:43,179 [INFO] ⏳ Пауза 13 сек...
+2026-06-17 22:33:44,003 [INFO] Got difference for account updates
+2026-06-17 22:33:44,858 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:33:45,088 [INFO] Got difference for channel 2016006872 updates
+2026-06-17 22:33:46,198 [INFO] Got difference for channel 2458058163 updates
+2026-06-17 22:33:46,602 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:33:46,770 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:33:46,965 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:33:47,166 [INFO] Got difference for channel 2534100191 updates
+2026-06-17 22:33:47,374 [INFO] Got difference for channel 3265732001 updates
+2026-06-17 22:33:47,538 [INFO] Got difference for channel 1214350563 updates
+2026-06-17 22:33:47,667 [INFO] Got difference for channel 2667299841 updates
+2026-06-17 22:33:47,796 [INFO] Got difference for channel 3159397313 updates
+2026-06-17 22:33:47,978 [INFO] Got difference for channel 2414392202 updates
+2026-06-17 22:33:48,215 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:33:48,385 [INFO] Got difference for channel 1294387451 updates
+2026-06-17 22:33:49,433 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:33:53,516 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:33:56,588 [INFO] [34/47] ✅ @savdo990
+2026-06-17 22:33:56,588 [INFO] ⏳ Пауза 11 сек...
+2026-06-17 22:33:58,951 [INFO] Got difference for channel 3829499102 updates
+2026-06-17 22:33:59,961 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:34:04,503 [INFO] Got difference for account updates
+2026-06-17 22:34:04,690 [INFO] Got difference for channel 3046113003 updates
+2026-06-17 22:34:05,207 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:34:07,850 [ERROR] [35/47] 🚫 Нет доступа: @KafilForum_Uz — You can't write in this chat (caused by SendMessageRequest)
+2026-06-17 22:34:07,851 [INFO] ⏳ Пауза 7 сек...
+2026-06-17 22:34:12,374 [INFO] Got difference for channel 3265732001 updates
+2026-06-17 22:34:15,343 [INFO] [36/47] ✅ @forums_uzbek
+2026-06-17 22:34:15,346 [INFO] ⏳ Пауза 7 сек...
+2026-06-17 22:34:22,795 [INFO] [37/47] ✅ @FORUM_GROUPn1
+2026-06-17 22:34:22,796 [INFO] ⏳ Пауза 14 сек...
+2026-06-17 22:34:23,524 [INFO] Got difference for channel 2557167419 updates
+2026-06-17 22:34:37,244 [INFO] [38/47] ✅ @Forum_ChatUz
+2026-06-17 22:34:37,244 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:34:37,890 [INFO] Got difference for channel 3077374344 updates
+2026-06-17 22:34:41,226 [INFO] Got difference for channel 3768693589 updates
+2026-06-17 22:34:45,548 [INFO] [39/47] ✅ @Ishonchlik_savdo_guruhi
+2026-06-17 22:34:45,548 [INFO] ⏳ Пауза 13 сек...
+2026-06-17 22:34:46,554 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:34:52,807 [INFO] Got difference for channel 3307147483 updates
+2026-06-17 22:34:58,981 [INFO] [40/47] ✅ @billo_forum
+2026-06-17 22:34:58,981 [INFO] ⏳ Пауза 13 сек...
+2026-06-17 22:35:02,528 [INFO] Got difference for channel 2016006872 updates
+2026-06-17 22:35:05,760 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:35:10,954 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:35:12,360 [INFO] [41/47] ✅ @premiumsavdos
+2026-06-17 22:35:12,361 [INFO] ⏳ Пауза 10 сек...
+2026-06-17 22:35:13,013 [INFO] Got difference for channel 3877146424 updates
+2026-06-17 22:35:22,805 [INFO] [42/47] ✅ @Uzbekistan_Gifts_Forum
+2026-06-17 22:35:22,806 [INFO] ⏳ Пауза 10 сек...
+2026-06-17 22:35:33,154 [INFO] [43/47] ✅ @kamoliddinov_forum
+2026-06-17 22:35:33,155 [INFO] ⏳ Пауза 15 сек...
+2026-06-17 22:35:35,212 [INFO] Got difference for account updates
+2026-06-17 22:35:35,403 [INFO] Got difference for channel 3046113003 updates
+2026-06-17 22:35:35,952 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:35:36,132 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:35:45,433 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:35:48,625 [INFO] [44/47] ✅ @savdochlar
+2026-06-17 22:35:48,626 [INFO] ⏳ Пауза 6 сек...
+2026-06-17 22:35:49,430 [INFO] Got difference for channel 3827987182 updates
+2026-06-17 22:35:52,396 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:35:54,557 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:35:55,058 [INFO] [45/47] ✅ @savdo_kapital
+2026-06-17 22:35:55,059 [INFO] ⏳ Пауза 13 сек...
+2026-06-17 22:36:07,410 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:36:08,577 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:36:08,594 [INFO] [46/47] ✅ @eski_gurruh
+2026-06-17 22:36:08,600 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:36:09,499 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:36:17,071 [ERROR] [47/47] 🚫 Нет доступа: @uzb_savdo_pp — You can't write in this chat (caused by SendMessageRequest)
+2026-06-17 22:36:17,071 [INFO] ========================================
+2026-06-17 22:36:17,071 [INFO] 🏁 РАССЫЛКА ЗАВЕРШЕНА: ✅ 39 успешно, ❌ 8 ошибок ⏱ 8:23
+2026-06-17 22:36:17,072 [INFO] ========================================
+2026-06-17 22:36:17,072 [INFO] ⏳ Ждём 5 мин. 0 сек. до следующей рассылки...
+2026-06-17 22:36:27,416 [INFO] Got difference for channel 3238877570 updates
+2026-06-17 22:36:48,176 [INFO] Got difference for channel 3946564433 updates
+2026-06-17 22:36:52,518 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:36:58,445 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:37:19,029 [INFO] Got difference for channel 2698619965 updates
+2026-06-17 22:37:22,412 [INFO] Got difference for channel 3238877570 updates
+2026-06-17 22:37:29,066 [INFO] Got difference for channel 2698619965 updates
+2026-06-17 22:37:50,127 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:37:53,516 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:37:55,842 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:38:08,130 [INFO] Got difference for channel 3768693589 updates
+2026-06-17 22:38:14,147 [INFO] Got difference for channel 1214350563 updates
+2026-06-17 22:38:14,846 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:38:20,675 [INFO] Got difference for channel 3908921248 updates
+2026-06-17 22:38:25,421 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:38:26,188 [INFO] Got difference for channel 2370692611 updates
+2026-06-17 22:38:26,437 [INFO] Got difference for channel 2698619965 updates
+2026-06-17 22:38:50,926 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:38:51,218 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:38:51,547 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:38:51,761 [INFO] Got difference for channel 2534100191 updates
+2026-06-17 22:38:52,018 [INFO] Got difference for channel 3159397313 updates
+2026-06-17 22:38:52,239 [INFO] Got difference for channel 3238877570 updates
+2026-06-17 22:38:52,484 [INFO] Got difference for channel 3265732001 updates
+2026-06-17 22:38:52,688 [INFO] Got difference for channel 2667299841 updates
+2026-06-17 22:38:52,900 [INFO] Got difference for channel 2595709573 updates
+2026-06-17 22:38:53,099 [INFO] Got difference for channel 1819035559 updates
+2026-06-17 22:38:53,353 [INFO] Got difference for channel 3546794025 updates
+2026-06-17 22:38:53,609 [INFO] Got difference for channel 2458058163 updates
+2026-06-17 22:38:53,925 [INFO] Got difference for channel 2016006872 updates
+2026-06-17 22:38:54,217 [INFO] Got difference for channel 1294387451 updates
+2026-06-17 22:38:54,452 [INFO] Got difference for channel 2352771422 updates
+2026-06-17 22:39:06,447 [INFO] Got difference for channel 3238877570 updates
+2026-06-17 22:39:18,431 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:39:29,382 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:39:32,463 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:39:33,475 [INFO] Got difference for channel 3238877570 updates
+2026-06-17 22:39:40,209 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:39:48,575 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:39:50,400 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:39:57,405 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:40:07,704 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:40:09,081 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:40:15,566 [INFO] Got difference for channel 3646484183 updates
+2026-06-17 22:40:15,782 [INFO] Got difference for channel 3794611198 updates
+2026-06-17 22:40:18,653 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:40:41,611 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:40:48,950 [INFO] Got difference for channel 2698619965 updates
+2026-06-17 22:40:51,509 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:40:59,496 [INFO] Got difference for channel 3704106124 updates
+2026-06-17 22:40:59,707 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:41:07,689 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:41:17,080 [INFO] Disconnecting from 149.154.167.51:443/TcpFull...
+2026-06-17 22:41:17,082 [INFO] Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-06-17 22:41:17,106 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2026-06-17 22:41:17,308 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2026-06-17 22:41:18,247 [INFO] ✅ Подключено: StarPayUz — Admin (@StarPayUzAdmin)
+2026-06-17 22:41:18,247 [INFO] ========================================
+2026-06-17 22:41:18,249 [INFO] 🚀 НАЧАЛО РАССЫЛКИ
+2026-06-17 22:41:18,249 [INFO] ========================================
+2026-06-17 22:41:18,753 [INFO] [1/47] ✅ @forum_nft_uzbekistan
+2026-06-17 22:41:18,758 [INFO] ⏳ Пауза 9 сек...
+2026-06-17 22:41:26,330 [INFO] Got difference for channel 3974153534 updates
+2026-06-17 22:41:28,281 [INFO] [2/47] ✅ @gift_kurs
+2026-06-17 22:41:28,282 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:41:36,772 [INFO] [3/47] ✅ @oldgroupmarketss
+2026-06-17 22:41:36,772 [INFO] ⏳ Пауза 11 сек...
+2026-06-17 22:41:48,351 [INFO] [4/47] ✅ @forumjon
+2026-06-17 22:41:48,353 [INFO] ⏳ Пауза 15 сек...
+2026-06-17 22:41:53,166 [INFO] Got difference for account updates
+2026-06-17 22:42:03,771 [INFO] [5/47] ✅ @forumu_savdo
+2026-06-17 22:42:03,771 [INFO] ⏳ Пауза 11 сек...
+2026-06-17 22:42:05,133 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:42:15,167 [INFO] [6/47] ✅ @forum_ok
+2026-06-17 22:42:15,183 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:42:19,281 [INFO] Got difference for channel 3844602083 updates
+2026-06-17 22:42:23,656 [INFO] [7/47] ✅ @vz_reak_rek_tekin
+2026-06-17 22:42:23,666 [INFO] ⏳ Пауза 11 сек...
+2026-06-17 22:42:24,372 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:42:32,383 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:42:35,384 [INFO] [8/47] ✅ @foydalichatku
+2026-06-17 22:42:35,385 [INFO] ⏳ Пауза 7 сек...
+2026-06-17 22:42:38,031 [INFO] Got difference for account updates
+2026-06-17 22:42:38,731 [INFO] Got difference for channel 1631709714 updates
+2026-06-17 22:42:38,975 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:42:39,180 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:42:39,451 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:42:42,794 [INFO] [9/47] ✅ @ok_savdo
+2026-06-17 22:42:42,794 [INFO] ⏳ Пауза 13 сек...
+2026-06-17 22:42:43,546 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:42:55,109 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:42:55,451 [INFO] Got difference for account updates
+2026-06-17 22:42:55,972 [ERROR] [10/47] ❌ @uzforum_guruh — You join the discussion group before commenting, see [here](/api/discussion#requiring-users-to-join-the-group) for more info (caused by SendMessageRequest)
+2026-06-17 22:42:55,972 [INFO] ⏳ Пауза 5 сек...
+2026-06-17 22:42:56,131 [INFO] Got difference for channel 2458058163 updates
+2026-06-17 22:42:56,337 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:42:56,550 [INFO] Got difference for channel 3046113003 updates
+2026-06-17 22:42:56,748 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:43:01,237 [ERROR] [11/47] ❌ @nft_forumi — No user has "nft_forumi" as username
+2026-06-17 22:43:01,237 [INFO] ⏳ Пауза 9 сек...
+2026-06-17 22:43:10,705 [INFO] [12/47] ✅ @garantliy
+2026-06-17 22:43:10,705 [INFO] ⏳ Пауза 7 сек...
+2026-06-17 22:43:11,457 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:43:16,631 [INFO] Got difference for account updates
+2026-06-17 22:43:16,807 [INFO] Got difference for channel 3829042835 updates
+2026-06-17 22:43:17,353 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:43:17,633 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:43:18,318 [INFO] [13/47] ✅ @global_forums
+2026-06-17 22:43:18,318 [INFO] ⏳ Пауза 15 сек...
+2026-06-17 22:43:19,085 [INFO] Got difference for channel 2458058163 updates
+2026-06-17 22:43:21,128 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:43:23,899 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:43:33,918 [INFO] [14/47] ✅ @uzforum_garandi
+2026-06-17 22:43:33,918 [INFO] ⏳ Пауза 5 сек...
+2026-06-17 22:43:39,355 [INFO] [15/47] ✅ @kafolatforum
+2026-06-17 22:43:39,355 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:43:40,032 [INFO] Got difference for channel 1294387451 updates
+2026-06-17 22:43:44,272 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:43:47,849 [INFO] [16/47] ✅ @guruh_rek_vz
+2026-06-17 22:43:47,850 [INFO] ⏳ Пауза 8 сек...
+2026-06-17 22:43:48,078 [INFO] Got difference for account updates
+2026-06-17 22:43:48,353 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:43:48,909 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:43:56,458 [INFO] [17/47] ✅ @nodir_forum
+2026-06-17 22:43:56,458 [INFO] ⏳ Пауза 9 сек...
+2026-06-17 22:44:01,295 [INFO] Got difference for account updates
+2026-06-17 22:44:01,841 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:44:02,002 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:44:02,300 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:44:05,973 [INFO] [18/47] ✅ @gift_nft_sovdo
+2026-06-17 22:44:05,973 [INFO] ⏳ Пауза 7 сек...
+2026-06-17 22:44:09,089 [INFO] Got difference for channel 3919600235 updates
+2026-06-17 22:44:13,555 [INFO] [19/47] ✅ @akiystrade
+2026-06-17 22:44:13,555 [INFO] ⏳ Пауза 6 сек...
+2026-06-17 22:44:13,571 [INFO] Got difference for channel 2173987181 updates
+2026-06-17 22:44:14,237 [INFO] Got difference for channel 2841304439 updates
+2026-06-17 22:44:17,083 [INFO] Got difference for channel 1294387451 updates
+2026-06-17 22:44:19,152 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:44:20,119 [INFO] [20/47] ✅ @Savdochilar_Guruhi
+2026-06-17 22:44:20,120 [INFO] ⏳ Пауза 11 сек...
+2026-06-17 22:44:20,524 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:44:31,631 [INFO] [21/47] ✅ @omad_forum
+2026-06-17 22:44:31,631 [INFO] ⏳ Пауза 10 сек...
+2026-06-17 22:44:34,648 [INFO] Got difference for channel 2313293325 updates
+2026-06-17 22:44:41,794 [ERROR] [22/47] 🚫 Нет доступа: @NFT_OTC_SKUP — You can't write in this chat (caused by SendMessageRequest)
+2026-06-17 22:44:41,795 [INFO] ⏳ Пауза 6 сек...
+2026-06-17 22:44:41,987 [INFO] Got difference for account updates
+2026-06-17 22:44:42,410 [INFO] Got difference for channel 2254733967 updates
+2026-06-17 22:44:42,719 [INFO] Got difference for channel 1631709714 updates
+2026-06-17 22:44:42,922 [INFO] Got difference for channel 3151096421 updates
+2026-06-17 22:44:43,204 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:44:43,375 [INFO] Got difference for channel 2554414588 updates
+2026-06-17 22:44:43,582 [INFO] Got difference for channel 3139301134 updates
+2026-06-17 22:44:48,120 [INFO] [23/47] ✅ @Reak_Vz_Rek1
+2026-06-17 22:44:48,121 [INFO] ⏳ Пауза 12 сек...
+2026-06-17 22:44:49,118 [INFO] Got difference for account updates
+2026-06-17 22:44:49,811 [INFO] Got difference for channel 2222348198 updates
+2026-06-17 22:45:00,591 [INFO] [24/47] ✅ @BIGFORUMS
+2026-06-17 22:45:00,593 [INFO] ⏳ Пауза 7 сек...
+2026-06-17 22:45:06,193 [INFO] Disconnecting from 149.154.167.51:443/TcpFull...
+2026-06-17 22:45:06,195 [INFO] Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-06-17 22:45:06,219 [INFO] 👋 До свидания!
