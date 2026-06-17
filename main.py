@@ -11,6 +11,7 @@ import sys
 from pathlib import Path
 
 from telethon import TelegramClient
+from telethon.sessions import StringSession
 
 from config import settings
 from sender import send_messages
@@ -57,11 +58,18 @@ async def main_loop():
     log.info("=" * 50)
 
     while True:
-        client = TelegramClient(
-            settings.session_name,
-            settings.api_id,
-            settings.api_hash
-        )
+        if settings.string_session:
+            client = TelegramClient(
+                StringSession(settings.string_session),
+                settings.api_id,
+                settings.api_hash
+            )
+        else:
+            client = TelegramClient(
+                settings.session_name,
+                settings.api_id,
+                settings.api_hash
+            )
 
         try:
             await client.connect()

@@ -375,3 +375,17 @@
 2026-06-17 22:45:06,193 [INFO] Disconnecting from 149.154.167.51:443/TcpFull...
 2026-06-17 22:45:06,195 [INFO] Disconnection from 149.154.167.51:443/TcpFull complete!
 2026-06-17 22:45:06,219 [INFO] 👋 До свидания!
+2026-06-17 23:21:41,073 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2026-06-17 23:21:41,255 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2026-06-17 23:21:42,690 [INFO] ✅ Авторизация успешна! Аккаунт: StarPayUz — Admin
+2026-06-17 23:21:42,690 [INFO] 📁 Файл сессии сохранён: railway_session.session
+2026-06-17 23:21:42,690 [INFO] 🚀 Теперь запускай: python main.py
+2026-06-17 23:21:42,690 [INFO] Disconnecting from 149.154.167.51:443/TcpFull...
+2026-06-17 23:21:42,690 [INFO] Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-06-17 23:21:50,320 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2026-06-17 23:21:50,456 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2026-06-17 23:21:51,761 [INFO] ✅ Авторизация успешна! Аккаунт: StarPayUz — Admin
+2026-06-17 23:21:51,761 [INFO] 📁 Файл сессии сохранён: railway_session.session
+2026-06-17 23:21:51,761 [INFO] 🚀 Теперь запускай: python main.py
+2026-06-17 23:21:51,761 [INFO] Disconnecting from 149.154.167.51:443/TcpFull...
+2026-06-17 23:21:51,761 [INFO] Disconnection from 149.154.167.51:443/TcpFull complete!

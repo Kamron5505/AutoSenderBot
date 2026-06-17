@@ -20,6 +20,9 @@ class Settings:
         self.phone: str = os.getenv("PHONE", "")
         self.session_name: str = os.getenv("SESSION_NAME", "railway_session")
 
+        # String Session для Railway (вместо файла)
+        self.string_session: str | None = os.getenv("STRING_SESSION") or None
+
         # Интервал между полными циклами рассылки (в секундах)
         self.interval: int = int(os.getenv("INTERVAL", "300"))
 
