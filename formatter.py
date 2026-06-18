@@ -22,7 +22,7 @@ def parse_message(raw: str) -> tuple[str, list]:
     Рекурсивно обрабатывает вложенные теги (эмодзи внутри цитаты и т.д.).
     """
     token_re = re.compile(
-        r'<b>(.*?)</b>|<blockquote>(.*?)</blockquote>|<emoji id=(\d+)>(.*?)</emoji>',
+        r'<b>(.*?)</b>|<blockquote(?:\s+\w+)?>(.*?)</blockquote>|<emoji id="?(\d+)"?>(.*?)</emoji>',
         re.DOTALL
     )
 
